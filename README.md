@@ -1,8 +1,9 @@
 ### Olá! sou o Airton César
 
 - Cursando desenvolvimento de aplicativos, com foco em React Native, JDK e NodeJS.
-- Certificado em desenvolvimento front-end (HTML, CSS), JavaScript, ReactJS, NodeJS e Banco de Dados(MySQL e MongoDB) pela Danki Code.
+- Certificado em desenvolvimento front-end (HTML, CSS), JavaScript, ReactJS, NodeJS e Banco de Dados (MySQL e MongoDB) pela Danki Code.
 - Ingressei no GitHub em 19/01/2023
+- Pretendo alocar aqui meus projetos em aula e projetos particulares para desenvolver meus conhecimentos.
 
 <div align="center">
   <a href="https://github.com/Airton-ART">
